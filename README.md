@@ -1,2 +1,3 @@
 # Ad-astra
-A fabric mod for minecraft 1.16.x
+TechReborn的玩法扩展包。
+(待更)
