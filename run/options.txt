@@ -31,10 +31,10 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla"]
+incompatibleResourcePacks:["vanilla"]
 lastServer:
-lang:en_us
+lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
